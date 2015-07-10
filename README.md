@@ -33,6 +33,6 @@ This program consists of two parts:
 
 1. To speed up the process if the input file is too large, we can use multi-thread or map reduce. And we need to use ConcurrentHashMap to avoid concurrency issue.  
 2. If we use multi-thread, we can use concurrent.ExecutorService which has been implemented by java to maintain a tread pool. We will keep reading and once we get 10,000 lines, pass it to a idle thread. But at the same time, we need to label each line to make sure the rolling median number is computed from the correct order.  
-3. Also I read about a rolling algorithm which use a max heap and min heap, I think in this problem, the numbers are limited from [0,71], so it will not be faster than my algorithm.  
+3. Also I read about a rolling algorithm which use a max heap and min heap, I think in this problem, the numbers are limited from [0,71], so it will not be quicker than my algorithm.  
 
 
