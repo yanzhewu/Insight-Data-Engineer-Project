@@ -1,8 +1,7 @@
 # Insight-Data-Engineer-Project
 A data processing program which counts unique words and compute median number in a stream
 
-JDK 1.7
-run.sh should work, if not, please leave me a message at yzwunju@gmail.com
+Enviromment :JDK 1.7 and the run.sh should work, if not, please leave me a message at yzwunju@gmail.com
 
 
 Insight Data Engineering - Coding Challenge
