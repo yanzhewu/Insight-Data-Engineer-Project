@@ -3,8 +3,6 @@ A data processing program which counts unique words and compute median number in
 
 Enviromment :JDK 1.7 and the run.sh should work, if not, please leave me a message at yzwunju@gmail.com
 
-
-Insight Data Engineering - Coding Challenge
 ===========================================================
 
 For this coding challenge, I will handle input file line by line to get unique words and use my own rolling median algorithm which is optimized for tweets.
