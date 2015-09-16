@@ -1,4 +1,4 @@
-# Insight-Data-Engineer-Project
+# Median-Of-Data-Stream
 A data processing program which counts unique words and compute median number in a stream  
 
 Enviromment :JDK 1.7  
